@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "module": "es6",
+      "lib": ["dom", "es2017"],
+      "target": "es2015",
+      "noImplicitAny": true,
+      "baseUrl": "./src",
+    }
+  }
